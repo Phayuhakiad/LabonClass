@@ -61,7 +61,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(165, 71);
             this.button3.TabIndex = 2;
-            this.button3.Text = "Keyboard Event/ Mouse Event";
+            this.button3.Text = "Keyboard Event";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -71,7 +71,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(165, 71);
             this.button4.TabIndex = 3;
-            this.button4.Text = "Keyboard Event/ Mouse Event";
+            this.button4.Text = "Keyboard EventV2";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -81,7 +81,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(165, 71);
             this.button5.TabIndex = 4;
-            this.button5.Text = "Keyboard Event/ Mouse Event";
+            this.button5.Text = "Mouse Event";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
